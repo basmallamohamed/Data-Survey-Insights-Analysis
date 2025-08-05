@@ -1,0 +1,524 @@
+GenderSelect,Country,Age,CurrentJobTitleSelect,Tenure,WorkToolsSelect,LanguageRecommendationSelect,CompensationAmount
+Female,Australia,43,Business Analyst,3 to 5 years,SQL,Python,80000.0
+Male,United States,33,Scientist/Researcher,Less than a year,"MATLAB/Octave,Python",Matlab,100000.0
+Male,Other,28,Data Scientist,3 to 5 years,"Jupyter notebooks,Python,R,SQL",R,28000.0
+Male,Iran,31,Scientist/Researcher,1 to 2 years,Python,Python,15000.0
+Male,United States,25,Business Analyst,1 to 2 years,"R,SAS Base,SQL",R,45000.0
+Female,United Kingdom,31,Data Analyst,1 to 2 years,SQL,SQL,29000.0
+Male,France,26,Scientist/Researcher,Less than a year,R,R,25000.0
+Female,Germany,24,Scientist/Researcher,1 to 2 years,"Python,R",R,480.0
+Male,United States,43,Engineer,Less than a year,"R,Tableau",R,120000.0
+Male,France,30,Other,1 to 2 years,"Jupyter notebooks,Python",Python,33000.0
+Male,United States,42,Data Scientist,Less than a year,"Python,SQL",Python,180000.0
+Female,New Zealand,28,Machine Learning Engineer,Less than a year,"Python,SQL",Python,0.0
+Male,Russia,26,Machine Learning Engineer,Less than a year,Other,Python,60000.0
+Male,Mexico,21,Engineer,1 to 2 years,Other,Other,30000.0
+Female,Australia,35,Data Analyst,3 to 5 years,R,SAS,75000.0
+Male,United States,35,Software Developer/Software Engineer,3 to 5 years,"Jupyter notebooks,Python,TensorFlow",Python,173000.0
+Male,Brazil,34,Data Scientist,More than 10 years,"Python,R,SQL",Python,277000.0
+Male,Brazil,24,Engineer,1 to 2 years,"Python,SQL",Python,24000.0
+Male,India,40,Statistician,6 to 10 years,"R,SAS Base,SQL",R,75000.0
+Male,United States,24,Engineer,1 to 2 years,"C/C++,MATLAB/Octave",Matlab,67500.0
+Male,India,47,Statistician,6 to 10 years,R,R,1200000.0
+Male,United States,48,Data Scientist,6 to 10 years,"Python,R,SQL",R,115000.0
+Male,United States,36,Data Analyst,6 to 10 years,SQL,Python,86000.0
+Male,United States,23,Business Analyst,1 to 2 years,R,R,85000.0
+Male,United States,26,Data Analyst,1 to 2 years,"Python,R,SQL",R,59000.0
+Male,Colombia,26,Data Scientist,1 to 2 years,"R,SQL,Tableau",R,3600000.0
+Male,Canada,31,Data Analyst,1 to 2 years,R,R,126850.0
+Male,United States,28,Business Analyst,1 to 2 years,"Jupyter notebooks,Python,R,SQL,Tableau",Python,85000.0
+Male,India,27,Business Analyst,Less than a year,R,R,658000.0
+Male,Other,26,Engineer,1 to 2 years,"Jupyter notebooks,Python,R",Python,5500.0
+Male,United States,25,Scientist/Researcher,3 to 5 years,"MATLAB/Octave,Python",Matlab,20000.0
+Male,Taiwan,48,Engineer,Less than a year,"Python,SQL",Python,500000.0
+Male,United States,26,Business Analyst,3 to 5 years,"Python,R,SQL",R,74000.0
+Male,Philippines,23,Data Analyst,6 to 10 years,"Python,R,SQL",Python,55000.0
+Male,United States,27,Data Scientist,1 to 2 years,"MATLAB/Octave,Python,TensorFlow",Python,103000.0
+Male,Russia,44,Data Analyst,1 to 2 years,"Python,SQL",Python,700000.0
+Male,United States,24,Data Scientist,6 to 10 years,"Amazon Web services,Python,R",Python,90000.0
+Male,United States,25,Machine Learning Engineer,3 to 5 years,"MATLAB/Octave,Python,R",R,20000.0
+Male,United States,24,Business Analyst,Less than a year,"Python,R,SQL",SQL,72000.0
+Male,Switzerland,27,Data Analyst,3 to 5 years,"R,SQL",R,85000.0
+Male,India,25,Other,Less than a year,"Python,R",R,470000.0
+Male,Singapore,23,Software Developer/Software Engineer,3 to 5 years,"MATLAB/Octave,Python,TensorFlow",Python,72000.0
+Male,People 's Republic of China,35,Business Analyst,Less than a year,"Python,SQL",Python,240000.0
+Male,Canada,31,Software Developer/Software Engineer,3 to 5 years,"Python,TensorFlow",Python,53000.0
+Male,Canada,27,Scientist/Researcher,1 to 2 years,"Python,R",Python,30000.0
+Male,India,30,Machine Learning Engineer,1 to 2 years,MATLAB/Octave,Matlab,700000.0
+Male,India,39,Other,3 to 5 years,R,R,100000.0
+Male,Canada,23,Data Analyst,Less than a year,Other,Python,72000.0
+Female,United States,31,Data Scientist,6 to 10 years,"Jupyter notebooks,Python,R,SQL,Tableau",Python,140000.0
+Female,United States,27,Data Scientist,1 to 2 years,"Python,R,SQL",R,70000.0
+Male,Other,36,Data Analyst,1 to 2 years,"R,SQL",SQL,20000.0
+Male,Japan,33,Machine Learning Engineer,1 to 2 years,Python,Python,9000000.0
+Male,United States,37,Software Developer/Software Engineer,Less than a year,Python,Python,75000.0
+Male,India,39,Software Developer/Software Engineer,3 to 5 years,"R,SQL",R,1700000.0
+Male,United States,30,Software Developer/Software Engineer,3 to 5 years,"C/C++,Python",Python,80000.0
+Male,India,25,Machine Learning Engineer,1 to 2 years,"Python,R",Python,480000.0
+Male,India,23,Data Analyst,Less than a year,"R,Tableau",R,700000.0
+Male,United States,34,Scientist/Researcher,3 to 5 years,"Python,TensorFlow",Python,50000.0
+Male,India,23,Engineer,Less than a year,R,R,300000.0
+Female,India,28,Data Scientist,3 to 5 years,"Python,R",R,2400000.0
+Female,Sweden,43,Other,1 to 2 years,"R,Tableau",Python,40000.0
+Male,India,22,Data Analyst,Less than a year,R,R,550000.0
+Male,Russia,21,Computer Scientist,1 to 2 years,R,R,0.0
+Male,Greece,26,Data Analyst,1 to 2 years,"R,SQL",R,14000.0
+Male,Greece,31,Data Scientist,3 to 5 years,"Amazon Web services,Python,R",Python,25000.0
+Female,Ireland,34,Other,1 to 2 years,Other,R,39000.0
+Male,India,36,Business Analyst,3 to 5 years,"Python,R,SQL",R,100000.0
+Male,Iran,24,Researcher,3 to 5 years,"Python,TensorFlow",Python,24000000.0
+Female,Pakistan,25,Researcher,1 to 2 years,"MATLAB/Octave,Python,TensorFlow",Matlab,480000.0
+Male,India,23,Data Analyst,Less than a year,"Python,SQL",Python,650000.0
+Male,Malaysia,42,Software Developer/Software Engineer,Less than a year,Python,Python,200000.0
+Male,Iran,25,Machine Learning Engineer,1 to 2 years,MATLAB/Octave,C/C++/C#,0.0
+Male,Russia,21,Data Scientist,1 to 2 years,"Jupyter notebooks,Python,SQL",Python,30000.0
+Male,Italy,24,Machine Learning Engineer,1 to 2 years,"Amazon Web services,Python,R",Python,13500.0
+Male,United States,65,Other,More than 10 years,"Python,R",R,165000.0
+Male,India,28,Business Analyst,6 to 10 years,"Python,SQL",Python,2000000.0
+Male,Iran,31,Scientist/Researcher,6 to 10 years,"MATLAB/Octave,Python,R",Python,500.0
+Male,Taiwan,23,Machine Learning Engineer,3 to 5 years,"Python,TensorFlow",Python,30000.0
+Male,Spain,42,Programmer,1 to 2 years,"C/C++,Python,R",Python,31000.0
+Male,Indonesia,34,Other,6 to 10 years,"MATLAB/Octave,Python",Python,69150000.0
+Male,India,22,Programmer,1 to 2 years,"Python,TensorFlow",Python,550000.0
+Male,Israel,28,Other,3 to 5 years,"Jupyter notebooks,Python",Python,150000.0
+Male,India,49,Data Scientist,More than 10 years,R,R,3000000.0
+Male,India,22,Machine Learning Engineer,3 to 5 years,Python,Python,504000.0
+Male,Iran,21,Scientist/Researcher,1 to 2 years,"Jupyter notebooks,Python,TensorFlow",Python,12000000.0
+Male,Germany,32,Scientist/Researcher,3 to 5 years,R,R,15000.0
+Female,Italy,25,Data Scientist,1 to 2 years,"Jupyter notebooks,Python,R",Python,1000.0
+Male,Spain,29,Data Scientist,1 to 2 years,"MATLAB/Octave,Python",Matlab,25000.0
+Male,Denmark,30,Business Analyst,6 to 10 years,"R,Tableau",R,450000.0
+Female,Other,29,Scientist/Researcher,1 to 2 years,"Python,R",Python,34500.0
+Male,Switzerland,25,Scientist/Researcher,1 to 2 years,"Python,TensorFlow",Python,0.0
+Male,United States,36,Engineer,Less than a year,"Python,SQL",R,122000.0
+Male,Australia,53,Business Analyst,More than 10 years,"Python,R",R,150000.0
+Female,Japan,21,Scientist/Researcher,Less than a year,"Python,R",R,576000.0
+Male,Italy,26,Engineer,1 to 2 years,Python,Python,16000.0
+Male,Switzerland,59,Data Scientist,3 to 5 years,"Jupyter notebooks,Python,TensorFlow",Python,100000.0
+Female,Russia,25,Machine Learning Engineer,1 to 2 years,"C/C++,Python",Python,72000.0
+Male,Australia,52,Business Analyst,More than 10 years,SQL,R,200000.0
+Male,Other,35,Data Scientist,6 to 10 years,"Python,R",Python,55000.0
+Male,United Kingdom,37,Software Developer/Software Engineer,More than 10 years,"Jupyter notebooks,Python",Python,40000.0
+Male,Indonesia,33,Data Analyst,6 to 10 years,MATLAB/Octave,Matlab,100000000.0
+Male,Spain,27,Scientist/Researcher,1 to 2 years,Python,Python,14000.0
+Male,United Kingdom,25,Data Scientist,3 to 5 years,"Jupyter notebooks,Python",Python,31500.0
+Male,South Korea,29,Machine Learning Engineer,3 to 5 years,Other,C/C++/C#,1000.0
+Male,Australia,28,Data Scientist,3 to 5 years,"Amazon Web services,Python,R",R,120000.0
+Male,Germany,26,Researcher,1 to 2 years,"MATLAB/Octave,Python,TensorFlow",Python,36000.0
+Male,Netherlands,48,Business Analyst,1 to 2 years,Python,Python,90000.0
+Male,France,29,Data Scientist,3 to 5 years,"Python,SQL",Python,54000.0
+Female,Ireland,48,Other,3 to 5 years,SQL,R,74000.0
+Male,India,28,Engineer,3 to 5 years,"Python,R",R,725000.0
+Male,United Kingdom,27,Business Analyst,1 to 2 years,"Jupyter notebooks,Python,SQL",SQL,30000.0
+Male,New Zealand,42,Data Analyst,Less than a year,"R,SQL",R,75000.0
+Female,India,34,Data Scientist,More than 10 years,"R,SAS Base,SQL",R,1039000.0
+Male,Finland,27,Data Analyst,3 to 5 years,"R,SQL",R,25000.0
+Male,Italy,26,Data Miner,1 to 2 years,R,Python,15000.0
+Male,Ukraine,37,Data Analyst,More than 10 years,R,R,200000.0
+Male,Japan,41,Machine Learning Engineer,1 to 2 years,"Python,TensorFlow",Python,5000000.0
+Male,India,45,Data Scientist,3 to 5 years,"Amazon Web services,Python,R",R,3000000.0
+Male,United Kingdom,36,Scientist/Researcher,6 to 10 years,"Python,R",R,40500.0
+Male,Russia,38,Scientist/Researcher,3 to 5 years,"Jupyter notebooks,Python",Python,1680000.0
+Male,Australia,48,Scientist/Researcher,3 to 5 years,Python,Python,150000.0
+Female,Sweden,30,Machine Learning Engineer,6 to 10 years,"Jupyter notebooks,Python,TensorFlow",Python,750000.0
+Male,Spain,31,Scientist/Researcher,6 to 10 years,R,R,16000.0
+Male,France,22,Data Scientist,Less than a year,"Python,R,SQL",SQL,500.0
+Male,Taiwan,27,Data Analyst,1 to 2 years,"Jupyter notebooks,Python,R,SQL",Python,490000.0
+Male,Russia,30,Data Scientist,More than 10 years,Python,Python,2700000.0
+Male,Greece,41,Machine Learning Engineer,3 to 5 years,"Python,TensorFlow",Python,80000.0
+Female,Turkey,29,Computer Scientist,1 to 2 years,"MATLAB/Octave,Python",Matlab,54000.0
+Male,South Africa,43,Scientist/Researcher,3 to 5 years,R,R,625000.0
+Male,Other,30,Machine Learning Engineer,3 to 5 years,Other,Python,35000.0
+Male,Italy,27,Scientist/Researcher,3 to 5 years,"C/C++,MATLAB/Octave",Matlab,30000.0
+Female,Germany,55,Other,Less than a year,R,R,35000.0
+Male,Other,26,Data Analyst,3 to 5 years,"MATLAB/Octave,Python",Python,18000.0
+Female,Nigeria,24,Other,1 to 2 years,"Python,R,SQL",Python,200000.0
+Male,Spain,29,Operations Research Practitioner,6 to 10 years,"Python,R,SQL",R,60000.0
+Male,Brazil,37,DBA/Database Engineer,3 to 5 years,"Python,R,SQL",Python,50000.0
+Male,United Kingdom,36,Other,1 to 2 years,R,R,52000.0
+Male,Taiwan,32,Data Analyst,Less than a year,R,C/C++/C#,60000.0
+Male,India,25,Other,1 to 2 years,"MATLAB/Octave,Python",Python,148800.0
+Male,United States,41,Scientist/Researcher,More than 10 years,"Python,R",R,150000.0
+Male,Russia,31,Data Scientist,6 to 10 years,"Python,SQL",Python,150000.0
+Male,Russia,31,Data Analyst,1 to 2 years,"Jupyter notebooks,Python,TensorFlow",Python,1680000.0
+Female,Finland,26,Scientist/Researcher,3 to 5 years,"MATLAB/Octave,Python,R",Matlab,40000.0
+Male,Netherlands,33,DBA/Database Engineer,More than 10 years,"Python,R,SQL",Python,42000.0
+Male,Sweden,34,Scientist/Researcher,6 to 10 years,"Jupyter notebooks,Python,R,SQL",R,420000.0
+Male,Russia,33,Scientist/Researcher,1 to 2 years,R,R,2000000.0
+Male,Brazil,41,Other,3 to 5 years,"R,SQL,Tableau",R,150000.0
+Male,New Zealand,43,DBA/Database Engineer,3 to 5 years,"Python,SQL",Python,125000.0
+Male,United States,33,Other,1 to 2 years,"R,SQL",R,60000.0
+Male,Brazil,26,Other,Less than a year,Python,Python,6700.0
+Male,Poland,25,Data Analyst,Less than a year,"R,SQL",R,3650.0
+Female,Brazil,34,Programmer,6 to 10 years,"Python,SQL",Python,4500.0
+Male,Belgium,24,Data Scientist,1 to 2 years,"Jupyter notebooks,Python,R",Python,153600.0
+Male,Argentina,26,Business Analyst,1 to 2 years,"Python,R,SQL",SQL,18000.0
+Male,United States,38,Data Scientist,More than 10 years,"R,SQL",R,137000.0
+Male,Poland,26,Data Analyst,1 to 2 years,"Jupyter notebooks,Python,R,SQL,Tableau",Python,29400.0
+Male,Canada,55,Data Scientist,More than 10 years,"Jupyter notebooks,Python,R,SQL",Python,90000.0
+Male,Hong Kong,38,Other,6 to 10 years,"MATLAB/Octave,Python,TensorFlow",Python,900000.0
+Female,United States,35,Data Analyst,6 to 10 years,R,R,58000.0
+Male,People 's Republic of China,30,Engineer,1 to 2 years,"C/C++,Python",Python,20.0
+Male,Canada,22,Researcher,1 to 2 years,R,R,60000.0
+Male,United States,42,Other,More than 10 years,"Python,R,SQL",Python,125000.0
+Male,People 's Republic of China,27,Programmer,6 to 10 years,"Python,TensorFlow",Python,100000.0
+Male,United Kingdom,30,Researcher,3 to 5 years,"Python,R",Python,38500.0
+Male,United States,28,Scientist/Researcher,Less than a year,R,R,29000.0
+Female,United States,25,Data Analyst,3 to 5 years,"R,SAS Base,SQL",SQL,70000.0
+Male,Canada,32,Business Analyst,3 to 5 years,"Jupyter notebooks,Python,SQL",Python,67000.0
+Male,United States,40,Other,3 to 5 years,"R,SQL",SQL,151000.0
+Female,United States,27,Business Analyst,3 to 5 years,"R,SQL,Tableau",SQL,38000.0
+Male,Brazil,44,Business Analyst,1 to 2 years,"Jupyter notebooks,Python",Python,90000.0
+Male,Canada,29,Data Analyst,3 to 5 years,R,R,83001.0
+Male,United States,30,Data Scientist,6 to 10 years,"Jupyter notebooks,Python,R,SQL",Python,120000.0
+Male,United States,27,Data Analyst,3 to 5 years,"Python,R,SQL",R,55000.0
+Male,United States,47,Other,More than 10 years,Python,Python,105000.0
+Female,United States,42,Data Analyst,1 to 2 years,"R,SQL",R,60000.0
+Male,India,22,Software Developer/Software Engineer,1 to 2 years,"Python,TensorFlow",Python,13000.0
+Male,United States,70,Data Analyst,More than 10 years,"R,SAS Base,SQL",Python,150000.0
+Male,Nigeria,32,Data Analyst,3 to 5 years,"Python,R,SQL",SQL,150000.0
+Male,Germany,28,Scientist/Researcher,1 to 2 years,R,R,35000.0
+Male,United States,27,Data Analyst,1 to 2 years,"R,Tableau",R,63500.0
+Male,United States,25,Programmer,1 to 2 years,"C/C++,Python,R",Python,50000.0
+Male,United States,49,Scientist/Researcher,More than 10 years,MATLAB/Octave,Matlab,160000.0
+Male,United States,36,Scientist/Researcher,6 to 10 years,"Python,R",Python,32000.0
+Male,Poland,36,Software Developer/Software Engineer,3 to 5 years,"C/C++,MATLAB/Octave",Python,100000.0
+Male,Netherlands,38,Data Analyst,3 to 5 years,"R,SQL",R,65000.0
+Male,Argentina,55,Data Scientist,3 to 5 years,R,R,100000.0
+Male,United States,30,Predictive Modeler,1 to 2 years,"Jupyter notebooks,Python,R,SQL,Tableau",SQL,160000.0
+Male,United States,30,Other,6 to 10 years,"R,SAS Base,SQL",R,150000.0
+Male,United States,28,Data Analyst,3 to 5 years,"R,SAS Base,SQL",R,115000.0
+Female,United States,32,Data Scientist,More than 10 years,"Jupyter notebooks,Python,R",Python,163500.0
+Male,Brazil,35,Data Scientist,3 to 5 years,"Jupyter notebooks,Python,R,SQL",Python,72000.0
+Female,Chile,33,Scientist/Researcher,6 to 10 years,"Jupyter notebooks,Python",Python,25000000.0
+Male,Spain,38,Data Analyst,1 to 2 years,"Python,R,SQL",R,32000.0
+Female,United States,43,Researcher,More than 10 years,"Python,R,SQL",Python,180000.0
+Male,United States,47,Scientist/Researcher,More than 10 years,R,R,160000.0
+Male,United States,33,Statistician,3 to 5 years,R,Python,54000.0
+Male,Canada,28,Scientist/Researcher,1 to 2 years,"C/C++,Python,R",R,25000.0
+Male,Greece,38,Computer Scientist,1 to 2 years,Python,Python,13000.0
+Male,India,24,Software Developer/Software Engineer,1 to 2 years,R,R,447000.0
+Female,Ukraine,26,Data Miner,Less than a year,Python,Python,12000.0
+Male,Mexico,44,Data Scientist,More than 10 years,R,Other,6000.0
+Female,United States,24,Data Analyst,1 to 2 years,"Python,R",Python,0.0
+Male,United States,33,Data Scientist,3 to 5 years,"R,SQL",Python,150000.0
+Male,India,28,Data Analyst,Less than a year,"Python,R",R,550000.0
+Male,France,25,Machine Learning Engineer,1 to 2 years,"C/C++,Python",Python,40000.0
+Female,United Kingdom,55,Scientist/Researcher,More than 10 years,"Python,R,SQL",R,150000.0
+Male,Russia,46,Scientist/Researcher,1 to 2 years,"Python,R",R,400000.0
+Male,United Kingdom,32,Scientist/Researcher,6 to 10 years,"Python,R",Python,35000.0
+Male,United States,33,Scientist/Researcher,More than 10 years,"Python,R",R,105000.0
+Male,United Kingdom,44,Statistician,6 to 10 years,"R,SAS Base,SQL",Python,43000.0
+Male,United States,25,Scientist/Researcher,3 to 5 years,"Jupyter notebooks,Python,R,SQL,Tableau",Python,120000.0
+Male,India,39,Statistician,More than 10 years,R,R,1800000.0
+Male,Australia,26,Data Scientist,1 to 2 years,"Jupyter notebooks,Python,TensorFlow",Python,77000.0
+Male,United States,34,Business Analyst,6 to 10 years,"Python,R",SAS,100000.0
+Male,People 's Republic of China,27,Machine Learning Engineer,1 to 2 years,Python,Python,10000.0
+Male,India,24,Data Analyst,Less than a year,"Python,R,SQL",R,250000.0
+Male,United States,19,Data Scientist,Less than a year,"Python,R",Python,10000.0
+Female,United States,34,Data Analyst,1 to 2 years,R,R,50000.0
+Male,United States,24,Data Scientist,3 to 5 years,"R,SAS Base,SQL",R,86000.0
+Male,Turkey,38,Scientist/Researcher,More than 10 years,"MATLAB/Octave,Python,TensorFlow",Python,36000.0
+Male,Australia,43,Statistician,More than 10 years,"R,SAS Base,SQL",R,110.0
+Male,Singapore,31,Data Scientist,3 to 5 years,"Python,R",Python,72000.0
+Male,France,26,Other,Less than a year,"R,SQL",R,18000.0
+Male,United Kingdom,39,Other,6 to 10 years,"Jupyter notebooks,Python,R,SQL",Python,110000.0
+Male,Australia,24,Business Analyst,1 to 2 years,"Jupyter notebooks,Python,R",Python,98000.0
+Male,Brazil,22,Data Scientist,1 to 2 years,"Python,R",Python,12000.0
+Male,India,40,Other,Less than a year,"R,Tableau",Python,120000.0
+Male,Germany,37,Scientist/Researcher,1 to 2 years,R,R,100000.0
+Male,Singapore,26,Researcher,1 to 2 years,"Python,R",R,60000.0
+Male,Chile,25,Data Scientist,1 to 2 years,"Jupyter notebooks,Python",Python,6000000.0
+Female,United States,27,Data Scientist,3 to 5 years,"Jupyter notebooks,Python,R,SQL,Tableau",R,83200.0
+Male,United States,27,Data Scientist,3 to 5 years,"Jupyter notebooks,Python,R,SQL",Python,70000.0
+Male,Russia,23,Data Scientist,1 to 2 years,R,C/C++/C#,30000.0
+Male,Mexico,36,Engineer,3 to 5 years,"Jupyter notebooks,Python",Python,200000.0
+Male,Russia,30,Engineer,Less than a year,"MATLAB/Octave,Python",Python,10000.0
+Male,United States,37,Data Scientist,More than 10 years,"Amazon Web services,Python,R",Python,145000.0
+Male,United States,57,Engineer,More than 10 years,"C/C++,MATLAB/Octave",Matlab,130000.0
+Male,Turkey,32,Other,1 to 2 years,"Python,SQL",Python,60000.0
+Female,Iran,27,Researcher,1 to 2 years,"C/C++,Python",Python,240000000.0
+Male,Italy,46,Scientist/Researcher,More than 10 years,"MATLAB/Octave,Python",Python,43000.0
+Male,India,25,Data Scientist,3 to 5 years,Python,Python,3100000.0
+Male,United States,39,Statistician,More than 10 years,"R,SAS Base,SQL",SAS,85000.0
+Male,Australia,27,Data Miner,1 to 2 years,"Python,R,SQL",R,60000.0
+Male,United States,22,Data Scientist,1 to 2 years,"Python,R,SQL",Python,48000.0
+Male,India,21,Data Scientist,Less than a year,"Jupyter notebooks,Python,SQL",Python,50000.0
+Male,United States,31,Data Analyst,6 to 10 years,"Jupyter notebooks,Python,R,SQL",R,120000.0
+Male,Philippines,45,Researcher,3 to 5 years,"R,SQL,Tableau",Python,1000000.0
+Male,Ireland,21,Data Scientist,1 to 2 years,R,Python,25000.0
+Male,Germany,41,Other,6 to 10 years,"Jupyter notebooks,Python",Python,55000.0
+Female,Other,22,Predictive Modeler,Less than a year,"Python,TensorFlow",Python,4000.0
+Male,Czech Republic,57,Scientist/Researcher,More than 10 years,"MATLAB/Octave,Python,TensorFlow",Matlab,1000000.0
+Female,United States,23,Data Analyst,1 to 2 years,"R,SQL,Tableau",Python,68000.0
+Male,United States,56,Researcher,1 to 2 years,"MATLAB/Octave,Python,TensorFlow",Python,142000.0
+Male,United States,28,DBA/Database Engineer,3 to 5 years,"Python,R",Python,100000.0
+Male,Other,34,Scientist/Researcher,6 to 10 years,Other,Java,1700.0
+Male,India,37,Other,Less than a year,"Amazon Web services,Python,R",R,2600000.0
+Male,Germany,43,Other,6 to 10 years,"Jupyter notebooks,Python,R,SQL",Python,106000.0
+Female,United States,24,Data Analyst,1 to 2 years,"Jupyter notebooks,Python,SQL",Python,94000.0
+Male,Colombia,25,Data Analyst,1 to 2 years,"Python,R",R,24000000.0
+Male,Czech Republic,28,Data Analyst,Less than a year,Python,Python,360000.0
+Male,Switzerland,51,Data Scientist,More than 10 years,"R,SAS Base,SQL",Python,170000.0
+Female,Russia,22,Machine Learning Engineer,1 to 2 years,"Jupyter notebooks,Python,SQL",Python,1300000.0
+Female,United States,26,Scientist/Researcher,1 to 2 years,R,Python,20000.0
+Male,United States,36,Scientist/Researcher,More than 10 years,"Amazon Web services,Python,R",R,100000.0
+Male,United States,22,Data Analyst,1 to 2 years,"R,SQL,Tableau",R,65000.0
+Male,United States,34,Machine Learning Engineer,More than 10 years,"Python,TensorFlow",Python,400000.0
+Male,India,21,Programmer,Less than a year,R,R,0.0
+Male,India,27,Programmer,Less than a year,"Jupyter notebooks,Python,TensorFlow",Python,300000.0
+Male,United States,30,Predictive Modeler,6 to 10 years,R,Python,200000.0
+Male,United States,26,Data Analyst,3 to 5 years,"R,SQL",R,60000.0
+Female,Netherlands,26,Data Scientist,Less than a year,"Jupyter notebooks,Python,R,SQL",R,35000.0
+Male,Canada,28,Scientist/Researcher,3 to 5 years,R,R,35000.0
+Male,United States,25,Data Scientist,6 to 10 years,Python,Python,50000.0
+Male,People 's Republic of China,25,Software Developer/Software Engineer,Less than a year,Python,Java,200000.0
+Male,Other,33,Scientist/Researcher,1 to 2 years,"Python,R",R,720000.0
+Female,People 's Republic of China,45,Researcher,1 to 2 years,Python,Python,1200.0
+Male,Brazil,27,Scientist/Researcher,3 to 5 years,"C/C++,MATLAB/Octave",Matlab,20000.0
+Male,Australia,27,Data Analyst,3 to 5 years,"Jupyter notebooks,Python,R",Python,80000.0
+Male,India,25,Software Developer/Software Engineer,I don't write code to analyze data,SQL,Python,550000.0
+Male,Canada,27,Data Analyst,3 to 5 years,"Python,R,SQL",R,71000.0
+Male,Taiwan,42,Data Analyst,1 to 2 years,Python,R,48000.0
+Male,Indonesia,24,Data Analyst,3 to 5 years,"R,Tableau",Python,68000000.0
+Male,People 's Republic of China,24,Machine Learning Engineer,1 to 2 years,Python,Python,0.0
+Male,Mexico,24,Data Scientist,1 to 2 years,"Python,R,SQL",R,180000.0
+Male,India,39,Researcher,3 to 5 years,Python,Python,46000.0
+Male,India,29,Software Developer/Software Engineer,3 to 5 years,SQL,Python,664000.0
+Female,Hong Kong,22,Machine Learning Engineer,1 to 2 years,"C/C++,Python,R",Python,8000.0
+Male,Australia,29,Data Scientist,3 to 5 years,R,R,70000.0
+Female,United States,33,Data Analyst,Less than a year,"Python,R,SQL",Python,51000.0
+Male,Singapore,26,Researcher,1 to 2 years,"Jupyter notebooks,Python,R,SQL,Tableau",Python,0.0
+Male,People 's Republic of China,21,Engineer,1 to 2 years,"C/C++,Python",C/C++/C#,320000.0
+Male,India,28,Software Developer/Software Engineer,1 to 2 years,"MATLAB/Octave,Python",Python,75000.0
+Male,India,29,Statistician,3 to 5 years,R,R,90000.0
+Male,South Africa,52,Data Scientist,1 to 2 years,R,R,370000.0
+Male,Hong Kong,22,Other,3 to 5 years,"R,SQL",Python,300000.0
+Male,United States,50,Scientist/Researcher,1 to 2 years,"Python,R",Python,82000.0
+Female,United States,27,Data Analyst,Less than a year,"Python,R",R,70000.0
+Male,Belgium,51,Other,1 to 2 years,"Jupyter notebooks,Python",Python,7000.0
+Male,Other,22,Data Scientist,1 to 2 years,"Python,TensorFlow",Python,60000000.0
+Male,India,31,Data Miner,6 to 10 years,"Python,R",R,40000.0
+Male,India,25,Data Analyst,1 to 2 years,R,R,355000.0
+Male,India,23,Data Scientist,Less than a year,Python,Python,2000000.0
+Male,United States,28,Machine Learning Engineer,1 to 2 years,"Jupyter notebooks,Python,TensorFlow",Python,0.0
+Male,United States,32,Scientist/Researcher,6 to 10 years,MATLAB/Octave,Python,115000.0
+Female,India,27,Other,Less than a year,R,SAS,250000.0
+Male,India,24,Machine Learning Engineer,1 to 2 years,"Jupyter notebooks,Python,TensorFlow",Python,900000.0
+Male,India,24,Data Scientist,1 to 2 years,"Python,R",Python,600000.0
+Male,United States,26,Data Analyst,3 to 5 years,"Jupyter notebooks,Python,SQL",Python,100000.0
+Male,Israel,34,Data Scientist,3 to 5 years,Python,Python,225000.0
+Male,Pakistan,23,Software Developer/Software Engineer,Less than a year,R,R,700000.0
+Male,Norway,46,Programmer,Less than a year,"Jupyter notebooks,Python",Python,800000.0
+Male,United States,34,Software Developer/Software Engineer,More than 10 years,"Jupyter notebooks,Python,SQL",Python,90000.0
+Male,France,26,Scientist/Researcher,1 to 2 years,"Python,TensorFlow",Python,35000.0
+Male,Netherlands,33,Researcher,6 to 10 years,"C/C++,MATLAB/Octave",Matlab,45000.0
+Female,Pakistan,25,Computer Scientist,Less than a year,"Python,TensorFlow",Python,45000.0
+Male,Spain,25,Data Analyst,Less than a year,"Jupyter notebooks,Python,R",Python,19000.0
+Female,Russia,24,Business Analyst,1 to 2 years,"Jupyter notebooks,Python,SQL",Python,52000.0
+Male,Russia,36,Other,1 to 2 years,"Python,R,SQL",R,36000.0
+Male,India,37,Data Scientist,More than 10 years,"Jupyter notebooks,Python,TensorFlow",Python,2000000.0
+Male,People 's Republic of China,28,Machine Learning Engineer,3 to 5 years,Python,Python,70000.0
+Female,Israel,27,Scientist/Researcher,1 to 2 years,"MATLAB/Octave,Python",Python,70000.0
+Male,United Kingdom,30,Engineer,3 to 5 years,Python,Python,65000.0
+Male,Russia,34,Machine Learning Engineer,1 to 2 years,"Python,TensorFlow",Python,1500000.0
+Male,Russia,45,Data Analyst,1 to 2 years,"Jupyter notebooks,Python",Python,30000.0
+Male,Australia,33,Data Analyst,1 to 2 years,"R,SAS Base,SQL",SAS,90000.0
+Male,Turkey,26,Software Developer/Software Engineer,Less than a year,"Python,SQL",Python,54000.0
+Male,France,39,Other,6 to 10 years,"Python,SQL",Python,110000.0
+Male,United Kingdom,44,Data Scientist,Less than a year,"Python,R",Python,35000.0
+Male,India,37,Business Analyst,1 to 2 years,R,R,2110000.0
+Male,Russia,23,Computer Scientist,1 to 2 years,"Python,R,SQL",Python,256.0
+Male,Kenya,34,Scientist/Researcher,6 to 10 years,"Python,TensorFlow",Python,1800000.0
+Male,Finland,35,Other,1 to 2 years,"Python,R,SQL",R,50000.0
+Male,Japan,40,Engineer,Less than a year,Python,Python,7000000.0
+Female,Russia,24,Data Scientist,1 to 2 years,"Python,TensorFlow",Python,960000.0
+Male,Other,18,Programmer,I don't write code to analyze data,"Python,TensorFlow",Python,0.0
+Male,United Kingdom,27,Data Scientist,3 to 5 years,"R,SQL",R,38000.0
+Female,India,37,Other,Less than a year,R,R,25000.0
+Male,Australia,45,Machine Learning Engineer,1 to 2 years,"Jupyter notebooks,Python,R",Python,65000.0
+Male,France,24,Scientist/Researcher,3 to 5 years,Python,Python,24000.0
+Male,Netherlands,34,Scientist/Researcher,3 to 5 years,R,R,50000.0
+Male,Iran,23,Computer Scientist,3 to 5 years,"Python,TensorFlow",Python,50000000.0
+Male,India,23,Computer Scientist,1 to 2 years,"Jupyter notebooks,Python,R,SQL",Python,2000.0
+Male,Russia,50,Data Analyst,1 to 2 years,R,R,33000.0
+Male,Nigeria,29,Data Analyst,3 to 5 years,"R,SQL",Python,36000.0
+Male,Spain,37,Machine Learning Engineer,1 to 2 years,"Jupyter notebooks,Python,R",Python,33000.0
+Male,Ireland,24,Predictive Modeler,1 to 2 years,"Jupyter notebooks,Python,R,SQL",R,40000.0
+Male,Spain,39,Scientist/Researcher,More than 10 years,"MATLAB/Octave,Python",C/C++/C#,40000.0
+Male,India,34,Data Scientist,More than 10 years,Python,C/C++/C#,60000.0
+Male,Russia,30,Data Analyst,3 to 5 years,"R,SQL",Python,1500000.0
+Male,India,36,Programmer,Less than a year,"Python,R,SQL",SQL,2700000.0
+Male,Belgium,32,Other,Less than a year,R,Python,80000.0
+Male,India,34,Other,6 to 10 years,"Python,R",Python,1800000.0
+Male,India,29,Data Scientist,3 to 5 years,"Python,R",R,2400000.0
+Female,United States,27,Researcher,3 to 5 years,R,R,34000.0
+Male,Philippines,29,Scientist/Researcher,3 to 5 years,"MATLAB/Octave,Python,R",Python,360000.0
+Male,Germany,32,Software Developer/Software Engineer,1 to 2 years,"C/C++,Python,R",Python,5000.0
+Male,France,27,Scientist/Researcher,3 to 5 years,"Jupyter notebooks,Python,R",R,20000.0
+Male,Other,45,Engineer,1 to 2 years,"R,SQL",R,35000.0
+Male,Japan,22,Software Developer/Software Engineer,Less than a year,Python,Python,4500000.0
+Male,United Kingdom,70,Machine Learning Engineer,1 to 2 years,"MATLAB/Octave,Python",Python,40000.0
+Male,South Korea,27,Machine Learning Engineer,3 to 5 years,"C/C++,Python",Python,50000.0
+Male,Nigeria,37,Data Scientist,6 to 10 years,"Python,R,SQL",R,9000000.0
+Male,India,31,Data Scientist,3 to 5 years,R,Python,500000.0
+Male,India,25,Data Scientist,3 to 5 years,"MATLAB/Octave,Python,R",Python,470000.0
+Male,Belgium,37,Researcher,6 to 10 years,"Jupyter notebooks,Python,R,SQL,Tableau",Python,60000.0
+Male,Other,28,Other,3 to 5 years,"Python,R",Python,30000.0
+Male,Switzerland,45,Engineer,6 to 10 years,"Jupyter notebooks,Python,R",Python,120000.0
+Male,Italy,43,Other,3 to 5 years,Other,Matlab,46000.0
+Male,Romania,38,Software Developer/Software Engineer,More than 10 years,"Jupyter notebooks,Python,TensorFlow",Python,18000.0
+Female,France,25,Data Scientist,3 to 5 years,"Python,R",Java,31000.0
+Male,India,34,Business Analyst,Less than a year,R,R,1000000.0
+Female,Australia,34,Scientist/Researcher,More than 10 years,MATLAB/Octave,Python,100000.0
+Male,Greece,26,Scientist/Researcher,Less than a year,"Python,TensorFlow",R,7200.0
+Male,Turkey,36,Scientist/Researcher,Less than a year,"Python,R",Python,48000.0
+Male,India,43,Software Developer/Software Engineer,I don't write code to analyze data,Python,Python,5600000.0
+Male,Brazil,24,Software Developer/Software Engineer,1 to 2 years,"Python,R",Python,14400.0
+Male,United States,31,Business Analyst,1 to 2 years,"Jupyter notebooks,Python,R,SQL,Tableau",SQL,58000.0
+Male,Belgium,33,Data Scientist,3 to 5 years,"Jupyter notebooks,Python,TensorFlow",Python,48000.0
+Male,Portugal,43,Data Analyst,More than 10 years,Other,Python,50000.0
+Male,Other,28,Other,1 to 2 years,"Jupyter notebooks,Python",Python,17000.0
+Male,United States,27,Data Analyst,3 to 5 years,"Jupyter notebooks,Python,SQL",Python,104000.0
+Male,United States,34,Statistician,1 to 2 years,"Python,R",Python,70000.0
+Male,France,47,Other,3 to 5 years,Python,Python,25000.0
+Male,Japan,34,Data Analyst,1 to 2 years,"R,Tableau",R,75000.0
+Female,Chile,31,Data Scientist,3 to 5 years,"R,SQL",R,18000000.0
+Male,Germany,36,Other,3 to 5 years,"Jupyter notebooks,Python,SQL",Python,100000.0
+Female,India,23,Engineer,1 to 2 years,"Python,R",Python,12000.0
+Male,United States,29,Engineer,3 to 5 years,"Jupyter notebooks,Python,SQL",Python,50000.0
+Male,India,21,Machine Learning Engineer,3 to 5 years,"Python,TensorFlow",Python,650000.0
+Male,Australia,30,Business Analyst,1 to 2 years,"Jupyter notebooks,Python,R",Python,70000.0
+Male,United States,41,Other,More than 10 years,Other,Python,130000.0
+Male,Indonesia,24,Software Developer/Software Engineer,Less than a year,SQL,Python,66000000.0
+Male,Colombia,28,Business Analyst,3 to 5 years,"R,Tableau",R,78000000.0
+Male,Other,55,Data Scientist,More than 10 years,"MATLAB/Octave,Python,R",Python,500.0
+Male,Switzerland,28,Predictive Modeler,6 to 10 years,"MATLAB/Octave,Python,R",Python,100000.0
+Female,Ireland,33,Data Scientist,More than 10 years,"Jupyter notebooks,Python,R,SQL",Python,70000.0
+Male,Russia,50,Data Scientist,3 to 5 years,Python,Python,32000.0
+Male,Singapore,31,Data Scientist,More than 10 years,"Jupyter notebooks,Python,R,SQL,Tableau",Python,95000.0
+Male,Russia,34,Software Developer/Software Engineer,Less than a year,SQL,Python,45000.0
+Male,India,33,Data Scientist,3 to 5 years,"Python,R,SQL",Python,15.0
+Female,Hong Kong,30,Data Scientist,6 to 10 years,"Python,R",R,60000.0
+Male,United States,30,Scientist/Researcher,3 to 5 years,Python,Python,56000.0
+Male,United States,42,Other,3 to 5 years,"Jupyter notebooks,Python,R",Python,172000.0
+Male,United States,57,Researcher,More than 10 years,"R,SQL",R,85000.0
+Male,Germany,53,Business Analyst,More than 10 years,"R,SAS Base,SQL",Python,80000.0
+Male,Portugal,70,Researcher,More than 10 years,"C/C++,MATLAB/Octave",C/C++/C#,63000.0
+Male,United States,57,Business Analyst,More than 10 years,"R,SQL",Python,120000.0
+Male,United States,24,Data Scientist,1 to 2 years,"Python,R,SQL",Python,75000.0
+Male,Colombia,62,Researcher,More than 10 years,MATLAB/Octave,C/C++/C#,150000000.0
+Male,Other,26,DBA/Database Engineer,3 to 5 years,"Jupyter notebooks,Python,R,SQL",Python,25515.0
+Female,United States,29,Data Scientist,1 to 2 years,"Jupyter notebooks,Python,R,SQL",R,90000.0
+Male,India,29,Data Analyst,1 to 2 years,"Jupyter notebooks,Python,R,SQL",Python,60.0
+Male,France,34,Data Scientist,6 to 10 years,"Jupyter notebooks,Python,TensorFlow",Python,53000.0
+Male,United Kingdom,47,Scientist/Researcher,More than 10 years,"C/C++,Python",Python,100000.0
+Female,Canada,28,Scientist/Researcher,1 to 2 years,Python,Python,20000.0
+Female,United States,34,Data Analyst,6 to 10 years,"MATLAB/Octave,Python,R",Python,50000.0
+Male,Hong Kong,31,Researcher,Less than a year,MATLAB/Octave,Python,15700.0
+Male,United States,20,Data Analyst,Less than a year,"Jupyter notebooks,Python,TensorFlow",Python,120000.0
+Male,United States,34,Scientist/Researcher,6 to 10 years,"MATLAB/Octave,Python",Python,50000.0
+Male,United States,56,Engineer,Less than a year,MATLAB/Octave,Python,90000.0
+Male,India,58,Other,Less than a year,"C/C++,Python,R",Python,3000000.0
+Female,United States,56,Scientist/Researcher,Less than a year,Python,Python,1000.0
+Male,Mexico,30,Data Scientist,3 to 5 years,"Jupyter notebooks,Python,R,SQL",R,540000.0
+Male,Colombia,29,Researcher,Less than a year,R,R,3000000.0
+Male,Brazil,51,Data Analyst,3 to 5 years,"Amazon Web services,Python,R",R,90000.0
+Male,United States,28,Engineer,3 to 5 years,"MATLAB/Octave,Python",Python,105000.0
+Female,United States,36,Data Scientist,6 to 10 years,"Jupyter notebooks,Python,R,SQL",R,82500.0
+Male,Other,25,Statistician,3 to 5 years,R,R,4200000.0
+Male,Spain,48,Data Scientist,1 to 2 years,"Python,R",R,80000.0
+Male,United States,22,Engineer,3 to 5 years,"C/C++,Python",Python,75000.0
+Male,United States,33,Data Analyst,3 to 5 years,"R,SQL,Tableau",R,72500.0
+Male,United States,37,Scientist/Researcher,More than 10 years,MATLAB/Octave,Python,78000.0
+Female,United States,27,Scientist/Researcher,6 to 10 years,"C/C++,Python,R",Python,60000.0
+Female,United States,37,Data Analyst,1 to 2 years,"Python,R",R,56000.0
+Male,United States,42,Other,6 to 10 years,R,R,200000.0
+Male,United States,32,Operations Research Practitioner,3 to 5 years,"R,SQL,Tableau",R,140000.0
+Male,Iran,27,Computer Scientist,Less than a year,"MATLAB/Octave,Python,TensorFlow",Python,0.0
+Male,United States,29,Scientist/Researcher,3 to 5 years,"Python,R",Python,25000.0
+Male,Other,35,Engineer,More than 10 years,"Python,SQL",Python,12000.0
+Male,Spain,27,Data Scientist,3 to 5 years,"Python,R,SQL",Python,41000.0
+Male,United States,23,Machine Learning Engineer,1 to 2 years,"C/C++,Python,R",Python,50000.0
+Male,Other,22,Data Scientist,Less than a year,"Python,SQL",Python,12000.0
+Male,Switzerland,32,Data Analyst,3 to 5 years,"Python,R,SQL",Python,100000.0
+Male,Canada,24,Data Analyst,3 to 5 years,"Python,R,SQL",Python,80000.0
+Male,United States,25,Researcher,3 to 5 years,"Jupyter notebooks,Python",Python,33000.0
+Female,United States,41,Data Analyst,More than 10 years,R,R,120000.0
+Female,India,36,Business Analyst,6 to 10 years,SQL,Python,1400000.0
+Male,France,35,Machine Learning Engineer,1 to 2 years,"C/C++,Python",Python,60.0
+Female,United States,24,Statistician,1 to 2 years,"R,SAS Base,SQL",SAS,70000.0
+Male,United States,30,Data Scientist,1 to 2 years,"R,Tableau",R,70000.0
+Male,Australia,31,Scientist/Researcher,1 to 2 years,"Python,R",R,70000.0
+Male,France,43,Data Analyst,Less than a year,"Jupyter notebooks,Python,R",Python,18000.0
+Male,United States,27,Scientist/Researcher,1 to 2 years,"Python,R",Python,29000.0
+Male,United States,30,Data Scientist,6 to 10 years,Other,Python,110000.0
+Male,United States,33,Business Analyst,1 to 2 years,Other,R,112000.0
+Male,Canada,31,Data Analyst,1 to 2 years,"Jupyter notebooks,Python,R,SQL,Tableau",R,80000.0
+Male,United States,32,Data Scientist,6 to 10 years,"R,SAS Base,SQL",R,160000.0
+Male,United States,23,Data Analyst,Less than a year,"R,SQL",R,50000.0
+Male,India,29,Software Developer/Software Engineer,1 to 2 years,"Python,TensorFlow",Python,200000.0
+Male,South Korea,62,Statistician,More than 10 years,"Jupyter notebooks,Python,R,SQL",Python,100000.0
+Male,Brazil,39,Computer Scientist,More than 10 years,"Python,R",Python,150000.0
+Male,United States,31,Data Scientist,1 to 2 years,"Python,R",Python,105000.0
+Male,Australia,32,Scientist/Researcher,6 to 10 years,"Jupyter notebooks,Python,R",Python,30000.0
+Male,People 's Republic of China,29,Machine Learning Engineer,3 to 5 years,"MATLAB/Octave,Python,TensorFlow",Python,300000.0
+Male,Japan,26,Data Analyst,3 to 5 years,"Jupyter notebooks,Python",Python,50000.0
+Female,India,23,Data Analyst,Less than a year,"Python,R",R,350000.0
+Female,India,36,Researcher,Less than a year,"Python,R",R,50000.0
+Male,Canada,28,Computer Scientist,3 to 5 years,Python,Python,12000.0
+Male,India,23,Data Scientist,Less than a year,"Jupyter notebooks,Python,R",R,200000.0
+Male,Germany,50,Data Scientist,More than 10 years,"R,SQL",R,100000.0
+Male,Australia,39,Data Scientist,More than 10 years,R,R,100000.0
+Male,Germany,27,Software Developer/Software Engineer,6 to 10 years,"C/C++,Python",Python,65000.0
+Female,United Kingdom,34,Other,3 to 5 years,R,Python,58000.0
+Male,South Africa,54,Software Developer/Software Engineer,More than 10 years,Other,Python,720000.0
+Male,Poland,31,Data Scientist,6 to 10 years,"C/C++,MATLAB/Octave",Python,120000.0
+Male,Nigeria,40,Statistician,I don't write code to analyze data,Python,Python,900000.0
+Male,Hungary,31,Researcher,6 to 10 years,MATLAB/Octave,Python,6000000.0
+Male,Germany,41,Other,1 to 2 years,"Python,SQL",Python,68000.0
+Male,Denmark,30,Data Scientist,3 to 5 years,"Jupyter notebooks,Python,SQL",Python,500000.0
+Male,Pakistan,32,Statistician,3 to 5 years,R,R,600000.0
+Male,Spain,32,Data Analyst,Less than a year,"R,SQL",R,28000.0
+Male,Colombia,31,Business Analyst,6 to 10 years,"R,SQL",R,54000000.0
+Male,Brazil,51,Scientist/Researcher,More than 10 years,"Jupyter notebooks,Python,R",Python,200000.0
+Male,France,27,Scientist/Researcher,1 to 2 years,"Jupyter notebooks,Python,TensorFlow",Python,35000.0
+Male,Egypt,38,Scientist/Researcher,More than 10 years,"MATLAB/Octave,Python,TensorFlow",Python,70000.0
+Male,United States,27,Data Analyst,3 to 5 years,"Jupyter notebooks,Python,R,SQL,Tableau",Python,125000.0
+Male,Canada,49,Predictive Modeler,3 to 5 years,"C/C++,Python,R",R,125000.0
+Female,Canada,23,Scientist/Researcher,3 to 5 years,"C/C++,Python",Python,21483.0
+Male,United States,25,Data Scientist,3 to 5 years,"MATLAB/Octave,Python,R",R,22000.0
+Male,Other,38,Researcher,3 to 5 years,R,R,26000.0
+Male,Mexico,39,Machine Learning Engineer,Less than a year,MATLAB/Octave,Other,110000.0
+Female,United States,23,Business Analyst,3 to 5 years,"Jupyter notebooks,Python,R,SQL",Python,70000.0
+Male,Germany,32,Business Analyst,3 to 5 years,"R,SQL",R,33000.0
+Male,India,30,Software Developer/Software Engineer,6 to 10 years,Python,Python,1600000.0
+Male,France,34,Data Scientist,3 to 5 years,"Jupyter notebooks,Python,R,SQL,Tableau",R,60000.0
+Male,Other,25,Data Scientist,1 to 2 years,"Python,R",Python,1881.0
+Male,Netherlands,38,Data Analyst,3 to 5 years,"R,SQL",Python,60000.0
+Male,India,30,Data Scientist,1 to 2 years,R,R,45000.0
+Male,Ireland,35,Data Analyst,More than 10 years,"Jupyter notebooks,Python,TensorFlow",Python,100000.0
+Male,Canada,56,Scientist/Researcher,More than 10 years,"Python,R",Python,150000.0
+Male,United States,36,Software Developer/Software Engineer,6 to 10 years,SQL,Python,75000.0
+Male,Italy,30,Scientist/Researcher,3 to 5 years,Python,Python,40000.0
+Male,Other,35,Data Scientist,3 to 5 years,"Jupyter notebooks,Python,TensorFlow",Python,144000.0
+Male,Other,38,Software Developer/Software Engineer,3 to 5 years,"Python,TensorFlow",Python,20000.0
+Female,Ukraine,25,DBA/Database Engineer,1 to 2 years,"Python,R",Python,120000.0
+Male,United States,60,Engineer,More than 10 years,MATLAB/Octave,Matlab,140000.0
+Male,United States,38,Data Scientist,6 to 10 years,"Jupyter notebooks,Python,R,SQL,Tableau",R,137500.0
+Male,United States,45,Researcher,3 to 5 years,"Python,R",R,63000.0
+Female,Australia,39,Researcher,More than 10 years,"R,SQL",Java,130000.0
+Male,Other,47,Computer Scientist,6 to 10 years,Python,Python,1500000.0
+Female,Switzerland,34,Data Scientist,6 to 10 years,"R,SQL,Tableau",Python,140000.0
+Male,Italy,39,Data Scientist,More than 10 years,R,R,150000.0
+Male,India,28,Business Analyst,1 to 2 years,"R,SAS Base,SQL",SQL,1400000.0
+Male,United States,32,Data Scientist,3 to 5 years,"Amazon Web services,Python,R",Python,89500.0
+Female,United Kingdom,31,Data Analyst,More than 10 years,"R,SAS Base,SQL",Python,110000.0
+Male,United States,27,Data Analyst,3 to 5 years,"Python,R,SQL",SQL,65000.0
+Male,Switzerland,34,Predictive Modeler,6 to 10 years,"R,SQL",R,115200.0
+Male,Colombia,31,Data Scientist,1 to 2 years,"Jupyter notebooks,Python,R,SQL",R,96000000.0
+Male,Philippines,31,Scientist/Researcher,3 to 5 years,Python,Python,900000.0
+Male,United States,52,Engineer,1 to 2 years,Python,Python,130000.0
+Male,Other,52,Business Analyst,More than 10 years,"Python,R,SQL",SQL,250000.0
+Female,Philippines,37,Programmer,More than 10 years,SQL,C/C++/C#,25000.0
+Male,Canada,48,Predictive Modeler,6 to 10 years,"Python,R",R,150000.0
