@@ -1,7 +1,7 @@
 # Kaggle Data Science Survey 2017 Analysis
 
 ## Overview
-This project analyzes the Kaggle Data Science Survey 2017 dataset, focusing on deriving insights from data science professionals' responses. Conducted as of August 05, 2025, it showcases trends in demographics, programming languages, job titles, and experience levels.
+This project analyzes the Kaggle Data Science Survey 2017 dataset, focusing on deriving insights from data science professionals' responses. It showcases trends in demographics, programming languages, job titles, and experience levels.
 
 ## Description
 The analysis involves cleaning the `multipleChoiceResponses.csv` file, performing data transformations, and generating insights such as the top 5 programming languages, age distributions by job title, and employment trends. These insights are visualized in an interactive Power BI dashboard.
